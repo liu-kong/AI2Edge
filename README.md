@@ -34,6 +34,10 @@
 - [Maxim MAX78000](https://www.maximintegrated.com/en/products/microcontrollers/MAX78000.html) - 集成 AI 加速器的微控制器。
 - [STM32N6](https://www.st.com/en/microcontrollers-microprocessors/stm32n6-series.html) - 集成 AI 加速器的微控制器。
 
+## 工具
+
+## 平台
+
 ## 教程和指南
 
 - [TensorFlow Lite 在 Raspberry Pi 上的入门](https://www.tensorflow.org/lite/examples/raspberry_pi_classification/overview)
