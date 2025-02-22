@@ -59,6 +59,11 @@
 - [边缘计算和 AI 聚会](https://www.meetup.com/Edge-Computing-and-AI-Meetups/) - 线下活动和讨论会。
 - [边缘 AI 会议](https://www.aionedgeconference.com/) - 专注于边缘 AI 的行业会议。
 
+## 其他开源合集
+
+- [awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing) - 精选的边缘计算资源列表。
+- [edge-ai](https://github.com/crespum/edge-ai) - 嵌入式 AI 资源的精选列表。
+
 ## 贡献
 
 欢迎贡献！请遵循以下指南：
